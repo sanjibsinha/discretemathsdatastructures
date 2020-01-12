@@ -1,11 +1,7 @@
-package fun.sanjibsinha.gcd;
+package fun.sanjibsinha.lcm;
 
-public class FindGCD {
-
-    static int numOne = 0;
-    static int numTwo = 0;
-    static int remain = 0;
-
+public class FinndLCM {
+//we can use any GCD method to find the LCM of any two numbers
     static int divisionBased(int num1, int num2){
         int temp;
         while (num2 != 0){
@@ -38,10 +34,16 @@ public class FindGCD {
         }
     }
 
-    public static void main(String[] args) throws ArithmeticException {
+    static int findLCMUsingGCD(int num1, int num2){
+        int temp = 0;
+        temp = num1 * num2 / recursiveBased(num1, num2);
+        return temp;
+    }
 
-        System.out.println(recursiveBased(1071, 462));
-        //output 21
+    public static void main(String[] args) {
+
+        System.out.println(findLCMUsingGCD(21, 6));
+        //output : 42
 
     }
 }

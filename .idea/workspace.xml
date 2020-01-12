@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="71ce1a21-1323-4fd5-aa15-e60338c67913" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/fun/sanjibsinha/gcd/FindGCD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fun/sanjibsinha/lcm/FinndLCM.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/discretemathsdatastructures/fun/sanjibsinha/gcd/FindGCD.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/discretemathsdatastructures/fun/sanjibsinha/gcd/FindGCD.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fun/sanjibsinha/gcd/FindGCD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fun/sanjibsinha/gcd/FindGCD.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,13 +35,26 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
-  <component name="RunManager" selected="Application.FindGCD">
+  <component name="RunManager" selected="Application.FinndLCM">
     <configuration name="FindGCD" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="fun.sanjibsinha.gcd.FindGCD" />
       <module name="discretemathsdatastructures" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="fun.sanjibsinha.gcd.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FinndLCM" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fun.sanjibsinha.lcm.FinndLCM" />
+      <module name="discretemathsdatastructures" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fun.sanjibsinha.lcm.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -59,6 +74,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FinndLCM" />
         <item itemvalue="Application.FindGCD" />
         <item itemvalue="Application.Main" />
       </list>
@@ -90,22 +106,22 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1259" height="175" key="GridCell.Tab.0.bottom" timestamp="1578807014729">
+    <state width="1259" height="175" key="GridCell.Tab.0.bottom" timestamp="1578808167144">
       <screen x="61" y="27" width="1305" height="741" />
     </state>
-    <state width="1259" height="175" key="GridCell.Tab.0.bottom/61.27.1305.741@61.27.1305.741" timestamp="1578807014729" />
-    <state width="1259" height="175" key="GridCell.Tab.0.center" timestamp="1578807014729">
+    <state width="1259" height="175" key="GridCell.Tab.0.bottom/61.27.1305.741@61.27.1305.741" timestamp="1578808167144" />
+    <state width="1259" height="175" key="GridCell.Tab.0.center" timestamp="1578808167143">
       <screen x="61" y="27" width="1305" height="741" />
     </state>
-    <state width="1259" height="175" key="GridCell.Tab.0.center/61.27.1305.741@61.27.1305.741" timestamp="1578807014729" />
-    <state width="1259" height="175" key="GridCell.Tab.0.left" timestamp="1578807014728">
+    <state width="1259" height="175" key="GridCell.Tab.0.center/61.27.1305.741@61.27.1305.741" timestamp="1578808167143" />
+    <state width="1259" height="175" key="GridCell.Tab.0.left" timestamp="1578808167143">
       <screen x="61" y="27" width="1305" height="741" />
     </state>
-    <state width="1259" height="175" key="GridCell.Tab.0.left/61.27.1305.741@61.27.1305.741" timestamp="1578807014728" />
-    <state width="1259" height="175" key="GridCell.Tab.0.right" timestamp="1578807014729">
+    <state width="1259" height="175" key="GridCell.Tab.0.left/61.27.1305.741@61.27.1305.741" timestamp="1578808167143" />
+    <state width="1259" height="175" key="GridCell.Tab.0.right" timestamp="1578808167144">
       <screen x="61" y="27" width="1305" height="741" />
     </state>
-    <state width="1259" height="175" key="GridCell.Tab.0.right/61.27.1305.741@61.27.1305.741" timestamp="1578807014729" />
+    <state width="1259" height="175" key="GridCell.Tab.0.right/61.27.1305.741@61.27.1305.741" timestamp="1578808167144" />
     <state x="369" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1578803543031">
       <screen x="61" y="27" width="1305" height="741" />
     </state>
