@@ -1,23 +1,24 @@
 package fun.sanjibsinha;
 
+import java.util.Collection;
+import java.util.Collections;
+import java.util.HashSet;
+import java.util.Set;
+
+
 public class SymmetricDifference {
 
-    public void findSymmetricDifference(int[] first, int[] second,
-                                        int lengthOfFirst, int lengthOfSecond){
+    public static void main(String[] args) {
+        Set<String> s1 = new HashSet<String>();
+        s1.add("a");
+        s1.add("b");
+        s1.add("c");
 
-        int i = 0;
-        int j = 0;
-        while (i < lengthOfFirst && j < lengthOfSecond){
-            if(first[i] < second[j]){
-                System.out.println(first[i] + " ");
-                i++;
-            } else if(second[j] < first[i]){
-                System.out.println(second[j] + " ");
-                j++;
-            } else {
-                i++;
-                j++;
-            }
-        }
+        Set<String> s2 = new HashSet<String>();
+        s2.add("b");
+
+        System.out.println(Collections.disjoint(s1, s2));
     }
+
+
 }
