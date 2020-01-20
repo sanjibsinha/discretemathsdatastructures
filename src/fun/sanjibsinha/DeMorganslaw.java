@@ -26,16 +26,41 @@ not (a and b) is the same as (not a) or (not b)
             additionOfTwoNumbers = numOne + numTwo;
             System.out.println("Addition of two numbers is : " + additionOfTwoNumbers);
         } else {
-            System.out.println("The number is not between 10 and 15");
+            System.out.println("The number is neither less than equal to 10 " +
+                    "nor greater than equal to 15");
         }
+
+Enter a positive number:
+11
+Enter another positive number:
+14
+The number is neither less than equal to 10 nor greater than equal to 15
+
+Enter a positive number:
+1
+Enter another positive number:
+140
+Addition of two numbers is : 141
 
 
         if(!(numOne >= 10) || !(numTwo <= 15)){
             additionOfTwoNumbers = numOne + numTwo;
             System.out.println("Addition of two numbers is : " + additionOfTwoNumbers);
         } else {
-            System.out.println("The number is not between 10 and 15");
+            System.out.println("The number is neither less than equal to 10 " +
+                    "nor greater than equal to 15");
         }
+Enter a positive number:
+11
+Enter another positive number:
+14
+The number is neither less than equal to 10 nor greater than equal to 15
+
+Enter a positive number:
+1
+Enter another positive number:
+140
+Addition of two numbers is : 141
 
 */
 
@@ -50,7 +75,17 @@ not (a or b) is the same as (not a) and (not b)
             System.out.println("The number is neither less than equal to 10 " +
                     "nor greater than equal to 15");
         }
+Enter a positive number:
+11
+Enter another positive number:
+14
+The number is neither less than equal to 10 nor greater than equal to 15
 
+Enter a positive number:
+1
+Enter another positive number:
+140
+Addition of two numbers is : 141
 
 
         if(!(numOne >= 10) && !(numTwo <= 15)){
@@ -60,6 +95,20 @@ not (a or b) is the same as (not a) and (not b)
             System.out.println("The number is neither less than equal to 10 " +
                     "nor greater than equal to 15");
         }
+
+Enter a positive number:
+11
+Enter another positive number:
+14
+The number is neither less than equal to 10 nor greater than equal to 15
+
+Enter a positive number:
+1
+Enter another positive number:
+140
+Addition of two numbers is : 141
+
+
 */
 
     }
