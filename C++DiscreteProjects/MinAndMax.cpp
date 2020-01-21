@@ -12,6 +12,8 @@
 
 using namespace std;
 
+/*
+ 
 int main(int argc, char** argv) {
     
     std::cout << "Minimum bool value " << std::numeric_limits<bool>::min() << "\n";
@@ -54,3 +56,7 @@ int main(int argc, char** argv) {
 
     return 0;
 }
+ 
+ 
+*/
+
