@@ -36,6 +36,7 @@ OBJECTDIR=${CND_BUILDDIR}/${CND_CONF}/${CND_PLATFORM}
 # Object Files
 OBJECTFILES= \
 	${OBJECTDIR}/BaseCalculation.o \
+	${OBJECTDIR}/IsPrime.o \
 	${OBJECTDIR}/MinAndMax.o \
 	${OBJECTDIR}/main.o
 
@@ -68,6 +69,11 @@ ${OBJECTDIR}/BaseCalculation.o: BaseCalculation.cpp
 	${MKDIR} -p ${OBJECTDIR}
 	${RM} "$@.d"
 	$(COMPILE.cc) -g -MMD -MP -MF "$@.d" -o ${OBJECTDIR}/BaseCalculation.o BaseCalculation.cpp
+
+${OBJECTDIR}/IsPrime.o: IsPrime.cpp
+	${MKDIR} -p ${OBJECTDIR}
+	${RM} "$@.d"
+	$(COMPILE.cc) -g -MMD -MP -MF "$@.d" -o ${OBJECTDIR}/IsPrime.o IsPrime.cpp
 
 ${OBJECTDIR}/MinAndMax.o: MinAndMax.cpp
 	${MKDIR} -p ${OBJECTDIR}
