@@ -5,10 +5,16 @@ void doSomething(void){
     printf("Do something.");
 }
 
-int main(int argc, char** argv) {
+/*
+ * int main(int argc, char** argv) {
     
-    doSomething();
+    doSomething(); 
 
     return (EXIT_SUCCESS);
 }
+ * 
+*/
+
+
+
 

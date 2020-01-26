@@ -31,12 +31,20 @@ public:
     }
 
 };
+/*
+ IsPrime firstObject;
+    
+    firstObject.findingPrime ();
+ 
+*/
 
 int main(int argc, char** argv) {
     
-    IsPrime firstObject;
-    
-    firstObject.findingPrime ();
+    int arr[] = {10, 7, 8, 9, 1, 5}; 
+    std::cout << sizeof(arr) << "\n";
+    std::cout << sizeof(arr[0]) << "\n";
+    int n = sizeof(arr) / sizeof(arr[0]); 
+    std::cout << n << "\n";
 
     return 0;
 } 
