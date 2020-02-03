@@ -26,7 +26,8 @@ void quicksortInOneFunction(int arrayOfNumbers[25], int firstIndex, int lastInde
     }
 }
 
-int main(){
+/*
+ int main(){
     int initialNumber, countingLimit, collectionOfNumber[6];
     printf("How many integers you want for for quick sorting?"
             " (Maximum value you can enter: 6): ");
@@ -46,3 +47,7 @@ int main(){
     
     return 0;
 } 
+
+ 
+*/
+

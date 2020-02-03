@@ -2,12 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="71ce1a21-1323-4fd5-aa15-e60338c67913" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/CDiscreteProjects/QucikSortTwo.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonDiscrete/QuickSort/QucikSortExampleOne.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHPDiscreteProjects/SetAndArray.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonDiscrete/ArrayExamples/ProbabilityAndArray.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fun/sanjibsinha/arrayexamples/ArrayExampleFive.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/C++DiscreteProjects/IsPrime.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/C++DiscreteProjects/IsPrime.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/C++DiscreteProjects/nbproject/private/private.xml" beforeDir="false" afterPath="$PROJECT_DIR$/C++DiscreteProjects/nbproject/private/private.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CDiscreteProjects/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/CDiscreteProjects/main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CDiscreteProjects/QuickSortOne.c" beforeDir="false" afterPath="$PROJECT_DIR$/CDiscreteProjects/QuickSortOne.c" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CDiscreteProjects/nbproject/Makefile-Debug.mk" beforeDir="false" afterPath="$PROJECT_DIR$/CDiscreteProjects/nbproject/Makefile-Debug.mk" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CDiscreteProjects/nbproject/Makefile-Release.mk" beforeDir="false" afterPath="$PROJECT_DIR$/CDiscreteProjects/nbproject/Makefile-Release.mk" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CDiscreteProjects/nbproject/configurations.xml" beforeDir="false" afterPath="$PROJECT_DIR$/CDiscreteProjects/nbproject/configurations.xml" afterDir="false" />
@@ -42,13 +41,13 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
-  <component name="RunManager" selected="Application.BinarySearch">
-    <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fun.sanjibsinha.timecomplexity.BinarySearch" />
+  <component name="RunManager" selected="Application.ProbabilityAndArray">
+    <configuration name="Array12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fun.sanjibsinha.arrayexamples.Array12" />
       <module name="discretemathsdatastructures" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="fun.sanjibsinha.timecomplexity.*" />
+          <option name="PATTERN" value="fun.sanjibsinha.arrayexamples.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -56,12 +55,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EuclidAlgorithm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fun.sanjibsinha.gcd.EuclidAlgorithm" />
+    <configuration name="ArrayExampleEleven" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fun.sanjibsinha.arrayexamples.ArrayExampleEleven" />
       <module name="discretemathsdatastructures" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="fun.sanjibsinha.gcd.*" />
+          <option name="PATTERN" value="fun.sanjibsinha.arrayexamples.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -69,12 +68,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindGCD" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fun.sanjibsinha.gcd.FindGCD" />
+    <configuration name="ArrayExampleFour" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fun.sanjibsinha.arrayexamples.ArrayExampleFour" />
       <module name="discretemathsdatastructures" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="fun.sanjibsinha.gcd.*" />
+          <option name="PATTERN" value="fun.sanjibsinha.arrayexamples.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,12 +81,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="QuickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fun.sanjibsinha.timecomplexity.QuickSort" />
+    <configuration name="ArrayExampleOne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fun.sanjibsinha.arrayexamples.ArrayExampleOne" />
       <module name="discretemathsdatastructures" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="fun.sanjibsinha.timecomplexity.*" />
+          <option name="PATTERN" value="fun.sanjibsinha.arrayexamples.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,12 +94,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TryingToFindPrime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fun.sanjibsinha.TryingToFindPrime" />
+    <configuration name="ProbabilityAndArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fun.sanjibsinha.setprobability.ProbabilityAndArray" />
       <module name="discretemathsdatastructures" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="fun.sanjibsinha.*" />
+          <option name="PATTERN" value="fun.sanjibsinha.setprobability.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,11 +109,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.BinarySearch" />
-        <item itemvalue="Application.QuickSort" />
-        <item itemvalue="Application.EuclidAlgorithm" />
-        <item itemvalue="Application.FindGCD" />
-        <item itemvalue="Application.TryingToFindPrime" />
+        <item itemvalue="Application.ProbabilityAndArray" />
+        <item itemvalue="Application.Array12" />
+        <item itemvalue="Application.ArrayExampleEleven" />
+        <item itemvalue="Application.ArrayExampleFour" />
+        <item itemvalue="Application.ArrayExampleOne" />
       </list>
     </recent_temporary>
   </component>
@@ -147,30 +146,38 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1320" height="234" key="GridCell.Tab.0.bottom" timestamp="1579866424060">
+    <state x="419" y="210" width="518" height="325" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1580618419133">
       <screen x="0" y="27" width="1366" height="694" />
     </state>
-    <state width="1320" height="234" key="GridCell.Tab.0.bottom/0.27.1366.694@0.27.1366.694" timestamp="1579866424060" />
+    <state x="419" y="210" width="518" height="325" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.27.1366.694@0.27.1366.694" timestamp="1580618419133" />
+    <state x="427" y="116" width="501" height="513" key="FileChooserDialogImpl" timestamp="1580618472784">
+      <screen x="0" y="27" width="1366" height="694" />
+    </state>
+    <state x="427" y="116" width="501" height="513" key="FileChooserDialogImpl/0.27.1366.694@0.27.1366.694" timestamp="1580618472784" />
+    <state width="1320" height="234" key="GridCell.Tab.0.bottom" timestamp="1580707733533">
+      <screen x="0" y="27" width="1366" height="694" />
+    </state>
+    <state width="1320" height="234" key="GridCell.Tab.0.bottom/0.27.1366.694@0.27.1366.694" timestamp="1580707733533" />
     <state width="1259" height="256" key="GridCell.Tab.0.bottom/61.27.1305.741@61.27.1305.741" timestamp="1579409167030" />
-    <state width="1320" height="234" key="GridCell.Tab.0.center" timestamp="1579866424060">
+    <state width="1320" height="234" key="GridCell.Tab.0.center" timestamp="1580707733532">
       <screen x="0" y="27" width="1366" height="694" />
     </state>
-    <state width="1320" height="234" key="GridCell.Tab.0.center/0.27.1366.694@0.27.1366.694" timestamp="1579866424060" />
+    <state width="1320" height="234" key="GridCell.Tab.0.center/0.27.1366.694@0.27.1366.694" timestamp="1580707733532" />
     <state width="1259" height="256" key="GridCell.Tab.0.center/61.27.1305.741@61.27.1305.741" timestamp="1579409167030" />
-    <state width="1320" height="234" key="GridCell.Tab.0.left" timestamp="1579866424059">
+    <state width="1320" height="234" key="GridCell.Tab.0.left" timestamp="1580707733532">
       <screen x="0" y="27" width="1366" height="694" />
     </state>
-    <state width="1320" height="234" key="GridCell.Tab.0.left/0.27.1366.694@0.27.1366.694" timestamp="1579866424059" />
+    <state width="1320" height="234" key="GridCell.Tab.0.left/0.27.1366.694@0.27.1366.694" timestamp="1580707733532" />
     <state width="1259" height="256" key="GridCell.Tab.0.left/61.27.1305.741@61.27.1305.741" timestamp="1579409167029" />
-    <state width="1320" height="234" key="GridCell.Tab.0.right" timestamp="1579866424060">
+    <state width="1320" height="234" key="GridCell.Tab.0.right" timestamp="1580707733533">
       <screen x="0" y="27" width="1366" height="694" />
     </state>
-    <state width="1320" height="234" key="GridCell.Tab.0.right/0.27.1366.694@0.27.1366.694" timestamp="1579866424060" />
+    <state width="1320" height="234" key="GridCell.Tab.0.right/0.27.1366.694@0.27.1366.694" timestamp="1580707733533" />
     <state width="1259" height="256" key="GridCell.Tab.0.right/61.27.1305.741@61.27.1305.741" timestamp="1579409167030" />
-    <state x="322" y="212" key="com.intellij.ide.util.TipDialog" timestamp="1579865593302">
+    <state x="322" y="212" key="com.intellij.ide.util.TipDialog" timestamp="1580706543706">
       <screen x="0" y="27" width="1366" height="694" />
     </state>
-    <state x="322" y="212" key="com.intellij.ide.util.TipDialog/0.27.1366.694@0.27.1366.694" timestamp="1579865593302" />
+    <state x="322" y="212" key="com.intellij.ide.util.TipDialog/0.27.1366.694@0.27.1366.694" timestamp="1580706543706" />
     <state x="369" y="225" key="com.intellij.ide.util.TipDialog/61.27.1305.741@61.27.1305.741" timestamp="1579414626983" />
   </component>
 </project>
