@@ -6,3 +6,5 @@
  * and open the template in the editor.
  */
 echo "Hello index!";
+?>
+<a href="FindProbablity.php">Find Probability</a>
