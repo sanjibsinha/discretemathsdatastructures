@@ -37,6 +37,7 @@ OBJECTDIR=${CND_BUILDDIR}/${CND_CONF}/${CND_PLATFORM}
 OBJECTFILES= \
 	${OBJECTDIR}/QucikSortTwo.o \
 	${OBJECTDIR}/QuickSortOne.o \
+	${OBJECTDIR}/StructTestOne.o \
 	${OBJECTDIR}/arrayOne.o \
 	${OBJECTDIR}/main.o
 
@@ -74,6 +75,11 @@ ${OBJECTDIR}/QuickSortOne.o: QuickSortOne.c
 	${MKDIR} -p ${OBJECTDIR}
 	${RM} "$@.d"
 	$(COMPILE.c) -g -MMD -MP -MF "$@.d" -o ${OBJECTDIR}/QuickSortOne.o QuickSortOne.c
+
+${OBJECTDIR}/StructTestOne.o: StructTestOne.c
+	${MKDIR} -p ${OBJECTDIR}
+	${RM} "$@.d"
+	$(COMPILE.c) -g -MMD -MP -MF "$@.d" -o ${OBJECTDIR}/StructTestOne.o StructTestOne.c
 
 ${OBJECTDIR}/arrayOne.o: arrayOne.c
 	${MKDIR} -p ${OBJECTDIR}

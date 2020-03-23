@@ -1,7 +1,7 @@
 /*
  * an array is a collective name given to a group of similar quantities
  * find average marks obtained by a class of 10 students
- */
+
 
 int main(int argc, char** argv) {
     
@@ -32,3 +32,4 @@ int main(int argc, char** argv) {
     return 0;
 }
 
+ */

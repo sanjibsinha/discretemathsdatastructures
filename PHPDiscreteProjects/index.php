@@ -7,4 +7,11 @@
  */
 echo "Hello index!";
 ?>
+<br>
 <a href="FindProbablity.php">Find Probability</a>
+<br>
+<a href="ArrayRotation.php">Rotation of an Array</a>
+<br>
+<a href="MoreArrayRotation.php">Rotation of an Array</a>
+<br>
+<a href="ClockClass.php">Rotation of an Array</a>

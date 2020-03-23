@@ -2,23 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="71ce1a21-1323-4fd5-aa15-e60338c67913" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Dart_SDK.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DiscreteDart/.idea/libraries/Dart_SDK.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DiscreteDart/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DiscreteDart/ArrayExamples.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DiscreteDart/FunctionExamples.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DiscreteDart/MapExamples.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DiscreteDart/SetExample.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DiscreteDart/test.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonDiscrete/ArrayExamples/MaximizeMedian.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fun/sanjibsinha/arrayexamples/MaximizingMedian.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DiscreteDart/ArrayRotate.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DiscreteDart/IntegerTest.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DiscreteDart/ReversalAlgorithm.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DiscreteDart/RotateAlgorithmOne.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DiscreteDart/SampleObject.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DiscreteDart/classes-and-objects/CreateNodeClass.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DiscreteDart/classes-and-objects/FollowingObjects.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DiscreteDart/classes-and-objects/MoreOnLinkedList.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DiscreteDart/classes-and-objects/NodeClass.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DiscreteDart/classes-and-objects/SampleClassAndObject.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DiscreteDart/data-structures/FixedLengthList.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DiscreteDart/data-structures/GrowableList.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fun/sanjibsinha/datastructures/DisplayLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fun/sanjibsinha/datastructures/NodeClass.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DiscreteDart/learn-dart-a-hard-way/bin/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/DiscreteDart/learn-dart-a-hard-way/bin/main.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DiscreteDart/learn-dart-a-hard-way/lib/generated/i18n.dart" beforeDir="false" afterPath="$PROJECT_DIR$/DiscreteDart/learn-dart-a-hard-way/lib/generated/i18n.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DiscreteDart/learn-dart-a-hard-way/test/IdeaProjects_test.dart" beforeDir="false" afterPath="$PROJECT_DIR$/DiscreteDart/learn-dart-a-hard-way/test/IdeaProjects_test.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CDiscreteProjects/arrayOne.c" beforeDir="false" afterPath="$PROJECT_DIR$/CDiscreteProjects/arrayOne.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CDiscreteProjects/nbproject/Makefile-Debug.mk" beforeDir="false" afterPath="$PROJECT_DIR$/CDiscreteProjects/nbproject/Makefile-Debug.mk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CDiscreteProjects/nbproject/Makefile-Release.mk" beforeDir="false" afterPath="$PROJECT_DIR$/CDiscreteProjects/nbproject/Makefile-Release.mk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CDiscreteProjects/nbproject/configurations.xml" beforeDir="false" afterPath="$PROJECT_DIR$/CDiscreteProjects/nbproject/configurations.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DiscreteDart/FunctionExamples.dart" beforeDir="false" afterPath="$PROJECT_DIR$/DiscreteDart/FunctionExamples.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PHPDiscreteProjects/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/PHPDiscreteProjects/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/discretemathsdatastructures.iml" beforeDir="false" afterPath="$PROJECT_DIR$/discretemathsdatastructures.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,8 +32,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Dart File" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -52,39 +56,92 @@
     <property name="dart.analysis.tool.window.force.activate" value="false" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
-  <component name="RunManager" selected="Dart Command Line App.FunctionExamples.dart">
-    <configuration name="ArrayExamples.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
-      <option name="filePath" value="$PROJECT_DIR$/DiscreteDart/ArrayExamples.dart" />
+  <component name="RunManager" selected="Application.StackExamples">
+    <configuration name="ArrayExamples" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fun.sanjibsinha.datastructures.ArrayExamples" />
+      <module name="discretemathsdatastructures" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fun.sanjibsinha.datastructures.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArrayListExamples" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fun.sanjibsinha.datastructures.ArrayListExamples" />
+      <module name="discretemathsdatastructures" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fun.sanjibsinha.datastructures.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DisplayLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fun.sanjibsinha.datastructures.DisplayLinkedList" />
+      <module name="discretemathsdatastructures" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fun.sanjibsinha.datastructures.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MultiDimensionalArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fun.sanjibsinha.datastructures.MultiDimensionalArray" />
+      <module name="discretemathsdatastructures" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fun.sanjibsinha.datastructures.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StackExamples" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fun.sanjibsinha.datastructures.StackExamples" />
+      <module name="discretemathsdatastructures" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fun.sanjibsinha.datastructures.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RotateAlgorithmOne.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/DiscreteDart/RotateAlgorithmOne.dart" />
       <option name="workingDirectory" value="$PROJECT_DIR$/DiscreteDart" />
       <method v="2" />
     </configuration>
-    <configuration name="FunctionExamples.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
-      <option name="filePath" value="$PROJECT_DIR$/DiscreteDart/FunctionExamples.dart" />
-      <option name="workingDirectory" value="$PROJECT_DIR$/DiscreteDart" />
-      <method v="2" />
-    </configuration>
-    <configuration name="MapExamples.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
-      <option name="filePath" value="$PROJECT_DIR$/DiscreteDart/MapExamples.dart" />
-      <option name="workingDirectory" value="$PROJECT_DIR$/DiscreteDart" />
-      <method v="2" />
-    </configuration>
-    <configuration name="SetExample.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
-      <option name="filePath" value="$PROJECT_DIR$/DiscreteDart/SetExample.dart" />
-      <option name="workingDirectory" value="$PROJECT_DIR$/DiscreteDart" />
-      <method v="2" />
-    </configuration>
-    <configuration name="test.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
-      <option name="filePath" value="$PROJECT_DIR$/DiscreteDart/test.dart" />
-      <option name="workingDirectory" value="$PROJECT_DIR$/DiscreteDart" />
-      <method v="2" />
-    </configuration>
+    <list>
+      <item itemvalue="Application.MultiDimensionalArray" />
+      <item itemvalue="Dart Command Line App.RotateAlgorithmOne.dart" />
+      <item itemvalue="Application.ArrayExamples" />
+      <item itemvalue="Application.ArrayListExamples" />
+      <item itemvalue="Application.DisplayLinkedList" />
+      <item itemvalue="Application.StackExamples" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Dart Command Line App.FunctionExamples.dart" />
-        <item itemvalue="Dart Command Line App.MapExamples.dart" />
-        <item itemvalue="Dart Command Line App.SetExample.dart" />
-        <item itemvalue="Dart Command Line App.ArrayExamples.dart" />
-        <item itemvalue="Dart Command Line App.test.dart" />
+        <item itemvalue="Application.StackExamples" />
+        <item itemvalue="Application.DisplayLinkedList" />
+        <item itemvalue="Application.ArrayListExamples" />
+        <item itemvalue="Application.ArrayExamples" />
+        <item itemvalue="Application.MultiDimensionalArray" />
       </list>
     </recent_temporary>
   </component>
@@ -117,10 +174,18 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="141" y="31" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581558761221">
+      <screen x="0" y="27" width="1366" height="694" />
+    </state>
+    <state x="141" y="31" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1366.694@0.27.1366.694" timestamp="1581558761221" />
     <state x="419" y="210" width="518" height="325" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1580618419133">
       <screen x="0" y="27" width="1366" height="694" />
     </state>
     <state x="419" y="210" width="518" height="325" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.27.1366.694@0.27.1366.694" timestamp="1580618419133" />
+    <state x="415" y="165" width="525" height="416" key="#com.intellij.ide.util.TreeFileChooserDialog" timestamp="1581558758886">
+      <screen x="0" y="27" width="1366" height="694" />
+    </state>
+    <state x="415" y="165" width="525" height="416" key="#com.intellij.ide.util.TreeFileChooserDialog/0.27.1366.694@0.27.1366.694" timestamp="1581558758886" />
     <state x="366" y="101" width="624" height="544" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1581245287851">
       <screen x="0" y="27" width="1366" height="694" />
     </state>
@@ -129,31 +194,51 @@
       <screen x="0" y="27" width="1366" height="694" />
     </state>
     <state x="427" y="116" width="501" height="513" key="FileChooserDialogImpl/0.27.1366.694@0.27.1366.694" timestamp="1581245630398" />
-    <state width="1320" height="234" key="GridCell.Tab.0.bottom" timestamp="1581320660666">
+    <state width="1320" height="229" key="GridCell.Tab.0.bottom" timestamp="1584941011446">
       <screen x="0" y="27" width="1366" height="694" />
     </state>
-    <state width="1320" height="234" key="GridCell.Tab.0.bottom/0.27.1366.694@0.27.1366.694" timestamp="1581320660666" />
+    <state width="1320" height="229" key="GridCell.Tab.0.bottom/0.27.1366.694@0.27.1366.694" timestamp="1584941011446" />
     <state width="1259" height="256" key="GridCell.Tab.0.bottom/61.27.1305.741@61.27.1305.741" timestamp="1579409167030" />
-    <state width="1320" height="234" key="GridCell.Tab.0.center" timestamp="1581320660665">
+    <state width="1320" height="229" key="GridCell.Tab.0.center" timestamp="1584941011445">
       <screen x="0" y="27" width="1366" height="694" />
     </state>
-    <state width="1320" height="234" key="GridCell.Tab.0.center/0.27.1366.694@0.27.1366.694" timestamp="1581320660665" />
+    <state width="1320" height="229" key="GridCell.Tab.0.center/0.27.1366.694@0.27.1366.694" timestamp="1584941011445" />
     <state width="1259" height="256" key="GridCell.Tab.0.center/61.27.1305.741@61.27.1305.741" timestamp="1579409167030" />
-    <state width="1320" height="234" key="GridCell.Tab.0.left" timestamp="1581320660664">
+    <state width="1320" height="229" key="GridCell.Tab.0.left" timestamp="1584941011444">
       <screen x="0" y="27" width="1366" height="694" />
     </state>
-    <state width="1320" height="234" key="GridCell.Tab.0.left/0.27.1366.694@0.27.1366.694" timestamp="1581320660664" />
+    <state width="1320" height="229" key="GridCell.Tab.0.left/0.27.1366.694@0.27.1366.694" timestamp="1584941011444" />
     <state width="1259" height="256" key="GridCell.Tab.0.left/61.27.1305.741@61.27.1305.741" timestamp="1579409167029" />
-    <state width="1320" height="234" key="GridCell.Tab.0.right" timestamp="1581320660665">
+    <state width="1320" height="229" key="GridCell.Tab.0.right" timestamp="1584941011445">
       <screen x="0" y="27" width="1366" height="694" />
     </state>
-    <state width="1320" height="234" key="GridCell.Tab.0.right/0.27.1366.694@0.27.1366.694" timestamp="1581320660665" />
+    <state width="1320" height="229" key="GridCell.Tab.0.right/0.27.1366.694@0.27.1366.694" timestamp="1584941011445" />
     <state width="1259" height="256" key="GridCell.Tab.0.right/61.27.1305.741@61.27.1305.741" timestamp="1579409167030" />
-    <state x="322" y="212" key="com.intellij.ide.util.TipDialog" timestamp="1581317094933">
+    <state width="1320" height="200" key="GridCell.Tab.1.bottom" timestamp="1581560574782">
       <screen x="0" y="27" width="1366" height="694" />
     </state>
-    <state x="322" y="212" key="com.intellij.ide.util.TipDialog/0.27.1366.694@0.27.1366.694" timestamp="1581317094933" />
+    <state width="1320" height="200" key="GridCell.Tab.1.bottom/0.27.1366.694@0.27.1366.694" timestamp="1581560574782" />
+    <state width="1320" height="200" key="GridCell.Tab.1.center" timestamp="1581560574782">
+      <screen x="0" y="27" width="1366" height="694" />
+    </state>
+    <state width="1320" height="200" key="GridCell.Tab.1.center/0.27.1366.694@0.27.1366.694" timestamp="1581560574782" />
+    <state width="1320" height="200" key="GridCell.Tab.1.left" timestamp="1581560574781">
+      <screen x="0" y="27" width="1366" height="694" />
+    </state>
+    <state width="1320" height="200" key="GridCell.Tab.1.left/0.27.1366.694@0.27.1366.694" timestamp="1581560574781" />
+    <state width="1320" height="200" key="GridCell.Tab.1.right" timestamp="1581560574782">
+      <screen x="0" y="27" width="1366" height="694" />
+    </state>
+    <state width="1320" height="200" key="GridCell.Tab.1.right/0.27.1366.694@0.27.1366.694" timestamp="1581560574782" />
+    <state x="322" y="212" key="com.intellij.ide.util.TipDialog" timestamp="1584705101017">
+      <screen x="0" y="27" width="1366" height="694" />
+    </state>
+    <state x="322" y="212" key="com.intellij.ide.util.TipDialog/0.27.1366.694@0.27.1366.694" timestamp="1584705101017" />
     <state x="369" y="225" key="com.intellij.ide.util.TipDialog/61.27.1305.741@61.27.1305.741" timestamp="1579414626983" />
+    <state x="293" y="27" width="770" height="694" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1581475489898">
+      <screen x="0" y="27" width="1366" height="694" />
+    </state>
+    <state x="293" y="27" width="770" height="694" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.27.1366.694@0.27.1366.694" timestamp="1581475489898" />
     <state x="0" y="27" width="1356" height="694" key="new project wizard" timestamp="1581245633372">
       <screen x="0" y="27" width="1366" height="694" />
     </state>
