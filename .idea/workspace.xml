@@ -2,27 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="71ce1a21-1323-4fd5-aa15-e60338c67913" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/DiscreteDart/ArrayRotate.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DiscreteDart/IntegerTest.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DiscreteDart/ReversalAlgorithm.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DiscreteDart/RotateAlgorithmOne.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DiscreteDart/SampleObject.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DiscreteDart/classes-and-objects/CreateNodeClass.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DiscreteDart/classes-and-objects/FollowingObjects.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DiscreteDart/classes-and-objects/MoreOnLinkedList.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DiscreteDart/classes-and-objects/NodeClass.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DiscreteDart/classes-and-objects/SampleClassAndObject.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DiscreteDart/data-structures/FixedLengthList.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DiscreteDart/data-structures/GrowableList.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fun/sanjibsinha/datastructures/DisplayLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fun/sanjibsinha/datastructures/NodeClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonDiscrete/ArrayExamples/DequeExample.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fun/sanjibsinha/chapter7/binarytree/inorder/InOrderBinaryTreeRecursive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fun/sanjibsinha/chapter7/binarytree/inorder/PrintingInOrderTraversal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fun/sanjibsinha/datastructures/QueueExampleFour.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fun/sanjibsinha/datastructures/StackExampleOne.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CDiscreteProjects/arrayOne.c" beforeDir="false" afterPath="$PROJECT_DIR$/CDiscreteProjects/arrayOne.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CDiscreteProjects/QucikSortTwo.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CDiscreteProjects/QuickSortOne.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CDiscreteProjects/StructTestOne.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CDiscreteProjects/arrayOne.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CDiscreteProjects/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/CDiscreteProjects/main.c" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CDiscreteProjects/nbproject/Makefile-Debug.mk" beforeDir="false" afterPath="$PROJECT_DIR$/CDiscreteProjects/nbproject/Makefile-Debug.mk" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CDiscreteProjects/nbproject/Makefile-Release.mk" beforeDir="false" afterPath="$PROJECT_DIR$/CDiscreteProjects/nbproject/Makefile-Release.mk" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CDiscreteProjects/nbproject/configurations.xml" beforeDir="false" afterPath="$PROJECT_DIR$/CDiscreteProjects/nbproject/configurations.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DiscreteDart/FunctionExamples.dart" beforeDir="false" afterPath="$PROJECT_DIR$/DiscreteDart/FunctionExamples.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PHPDiscreteProjects/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/PHPDiscreteProjects/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CDiscreteProjects/nbproject/private/private.xml" beforeDir="false" afterPath="$PROJECT_DIR$/CDiscreteProjects/nbproject/private/private.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/discretemathsdatastructures/fun/sanjibsinha/arrayexamples/A13.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/discretemathsdatastructures/fun/sanjibsinha/arrayexamples/A13.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/discretemathsdatastructures/fun/sanjibsinha/datastructures/StackExamples.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/discretemathsdatastructures/fun/sanjibsinha/datastructures/StackExamples.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fun/sanjibsinha/arrayexamples/A13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fun/sanjibsinha/arrayexamples/A13.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fun/sanjibsinha/datastructures/StackExamples.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fun/sanjibsinha/datastructures/StackExamples.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,15 +53,16 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
-  <component name="RunManager" selected="Application.StackExamples">
-    <configuration name="ArrayExamples" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fun.sanjibsinha.datastructures.ArrayExamples" />
+  <component name="RunManager" selected="Application.PrintInOrderTraversal">
+    <configuration name="DisplayPostOrderTraversal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fun.sanjibsinha.chapter7.binarytree.postordertraversal.DisplayPostOrderTraversal" />
       <module name="discretemathsdatastructures" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="fun.sanjibsinha.datastructures.*" />
+          <option name="PATTERN" value="fun.sanjibsinha.chapter7.binarytree.postordertraversal.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -70,12 +70,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArrayListExamples" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fun.sanjibsinha.datastructures.ArrayListExamples" />
+    <configuration name="DisplayingPostOrderTraversal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fun.sanjibsinha.chapter7.binarytree.postordertraversal.DisplayingPostOrderTraversal" />
       <module name="discretemathsdatastructures" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="fun.sanjibsinha.datastructures.*" />
+          <option name="PATTERN" value="fun.sanjibsinha.chapter7.binarytree.postordertraversal.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -83,12 +83,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DisplayLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fun.sanjibsinha.datastructures.DisplayLinkedList" />
+    <configuration name="PreOrderTreeWithRecursion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fun.sanjibsinha.chapter7.binarytree.preordertraversal.PreOrderTreeWithRecursion" />
       <module name="discretemathsdatastructures" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="fun.sanjibsinha.datastructures.*" />
+          <option name="PATTERN" value="fun.sanjibsinha.chapter7.binarytree.preordertraversal.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,12 +96,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MultiDimensionalArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fun.sanjibsinha.datastructures.MultiDimensionalArray" />
+    <configuration name="PrintInOrderTraversal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fun.sanjibsinha.chapter7.binarytree.inorder.PrintInOrderTraversal" />
       <module name="discretemathsdatastructures" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="fun.sanjibsinha.datastructures.*" />
+          <option name="PATTERN" value="fun.sanjibsinha.chapter7.binarytree.inorder.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,12 +109,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StackExamples" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fun.sanjibsinha.datastructures.StackExamples" />
+    <configuration name="PrintingInOrderTraversal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fun.sanjibsinha.chapter7.binarytree.inorder.PrintingInOrderTraversal" />
       <module name="discretemathsdatastructures" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="fun.sanjibsinha.datastructures.*" />
+          <option name="PATTERN" value="fun.sanjibsinha.chapter7.binarytree.inorder.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,20 +128,20 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Application.MultiDimensionalArray" />
       <item itemvalue="Dart Command Line App.RotateAlgorithmOne.dart" />
-      <item itemvalue="Application.ArrayExamples" />
-      <item itemvalue="Application.ArrayListExamples" />
-      <item itemvalue="Application.DisplayLinkedList" />
-      <item itemvalue="Application.StackExamples" />
+      <item itemvalue="Application.PrintingInOrderTraversal" />
+      <item itemvalue="Application.PreOrderTreeWithRecursion" />
+      <item itemvalue="Application.DisplayPostOrderTraversal" />
+      <item itemvalue="Application.DisplayingPostOrderTraversal" />
+      <item itemvalue="Application.PrintInOrderTraversal" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.StackExamples" />
-        <item itemvalue="Application.DisplayLinkedList" />
-        <item itemvalue="Application.ArrayListExamples" />
-        <item itemvalue="Application.ArrayExamples" />
-        <item itemvalue="Application.MultiDimensionalArray" />
+        <item itemvalue="Application.PrintInOrderTraversal" />
+        <item itemvalue="Application.PrintingInOrderTraversal" />
+        <item itemvalue="Application.DisplayingPostOrderTraversal" />
+        <item itemvalue="Application.DisplayPostOrderTraversal" />
+        <item itemvalue="Application.PreOrderTreeWithRecursion" />
       </list>
     </recent_temporary>
   </component>
@@ -174,6 +174,10 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="273" y="34" width="800" height="677" key="#Updates" timestamp="1588216916680">
+      <screen x="0" y="27" width="1366" height="694" />
+    </state>
+    <state x="273" y="34" width="800" height="677" key="#Updates/0.27.1366.694@0.27.1366.694" timestamp="1588216916680" />
     <state x="141" y="31" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581558761221">
       <screen x="0" y="27" width="1366" height="694" />
     </state>
@@ -182,6 +186,10 @@
       <screen x="0" y="27" width="1366" height="694" />
     </state>
     <state x="419" y="210" width="518" height="325" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.27.1366.694@0.27.1366.694" timestamp="1580618419133" />
+    <state x="491" y="84" width="374" height="577" key="#com.intellij.ide.util.MemberChooser" timestamp="1587177222804">
+      <screen x="0" y="27" width="1366" height="694" />
+    </state>
+    <state x="491" y="84" width="374" height="577" key="#com.intellij.ide.util.MemberChooser/0.27.1366.694@0.27.1366.694" timestamp="1587177222804" />
     <state x="415" y="165" width="525" height="416" key="#com.intellij.ide.util.TreeFileChooserDialog" timestamp="1581558758886">
       <screen x="0" y="27" width="1366" height="694" />
     </state>
@@ -190,51 +198,54 @@
       <screen x="0" y="27" width="1366" height="694" />
     </state>
     <state x="366" y="101" width="624" height="544" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.27.1366.694@0.27.1366.694" timestamp="1581245287851" />
+    <state x="416" y="121" width="524" height="503" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1588240568358">
+      <screen x="0" y="27" width="1366" height="694" />
+    </state>
+    <state x="416" y="121" width="524" height="503" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.27.1366.694@0.27.1366.694" timestamp="1588240568358" />
     <state x="427" y="116" width="501" height="513" key="FileChooserDialogImpl" timestamp="1581245630398">
       <screen x="0" y="27" width="1366" height="694" />
     </state>
     <state x="427" y="116" width="501" height="513" key="FileChooserDialogImpl/0.27.1366.694@0.27.1366.694" timestamp="1581245630398" />
-    <state width="1320" height="229" key="GridCell.Tab.0.bottom" timestamp="1584941011446">
+    <state width="1320" height="323" key="GridCell.Tab.0.bottom" timestamp="1588245014553">
       <screen x="0" y="27" width="1366" height="694" />
     </state>
-    <state width="1320" height="229" key="GridCell.Tab.0.bottom/0.27.1366.694@0.27.1366.694" timestamp="1584941011446" />
-    <state width="1259" height="256" key="GridCell.Tab.0.bottom/61.27.1305.741@61.27.1305.741" timestamp="1579409167030" />
-    <state width="1320" height="229" key="GridCell.Tab.0.center" timestamp="1584941011445">
+    <state width="1320" height="323" key="GridCell.Tab.0.bottom/0.27.1366.694@0.27.1366.694" timestamp="1588245014553" />
+    <state width="1320" height="323" key="GridCell.Tab.0.center" timestamp="1588245014552">
       <screen x="0" y="27" width="1366" height="694" />
     </state>
-    <state width="1320" height="229" key="GridCell.Tab.0.center/0.27.1366.694@0.27.1366.694" timestamp="1584941011445" />
-    <state width="1259" height="256" key="GridCell.Tab.0.center/61.27.1305.741@61.27.1305.741" timestamp="1579409167030" />
-    <state width="1320" height="229" key="GridCell.Tab.0.left" timestamp="1584941011444">
+    <state width="1320" height="323" key="GridCell.Tab.0.center/0.27.1366.694@0.27.1366.694" timestamp="1588245014552" />
+    <state width="1320" height="323" key="GridCell.Tab.0.left" timestamp="1588245014552">
       <screen x="0" y="27" width="1366" height="694" />
     </state>
-    <state width="1320" height="229" key="GridCell.Tab.0.left/0.27.1366.694@0.27.1366.694" timestamp="1584941011444" />
-    <state width="1259" height="256" key="GridCell.Tab.0.left/61.27.1305.741@61.27.1305.741" timestamp="1579409167029" />
-    <state width="1320" height="229" key="GridCell.Tab.0.right" timestamp="1584941011445">
+    <state width="1320" height="323" key="GridCell.Tab.0.left/0.27.1366.694@0.27.1366.694" timestamp="1588245014552" />
+    <state width="1320" height="323" key="GridCell.Tab.0.right" timestamp="1588245014553">
       <screen x="0" y="27" width="1366" height="694" />
     </state>
-    <state width="1320" height="229" key="GridCell.Tab.0.right/0.27.1366.694@0.27.1366.694" timestamp="1584941011445" />
-    <state width="1259" height="256" key="GridCell.Tab.0.right/61.27.1305.741@61.27.1305.741" timestamp="1579409167030" />
-    <state width="1320" height="200" key="GridCell.Tab.1.bottom" timestamp="1581560574782">
+    <state width="1320" height="323" key="GridCell.Tab.0.right/0.27.1366.694@0.27.1366.694" timestamp="1588245014553" />
+    <state width="1320" height="224" key="GridCell.Tab.1.bottom" timestamp="1588245014548">
       <screen x="0" y="27" width="1366" height="694" />
     </state>
-    <state width="1320" height="200" key="GridCell.Tab.1.bottom/0.27.1366.694@0.27.1366.694" timestamp="1581560574782" />
-    <state width="1320" height="200" key="GridCell.Tab.1.center" timestamp="1581560574782">
+    <state width="1320" height="224" key="GridCell.Tab.1.bottom/0.27.1366.694@0.27.1366.694" timestamp="1588245014548" />
+    <state width="1320" height="224" key="GridCell.Tab.1.center" timestamp="1588245014548">
       <screen x="0" y="27" width="1366" height="694" />
     </state>
-    <state width="1320" height="200" key="GridCell.Tab.1.center/0.27.1366.694@0.27.1366.694" timestamp="1581560574782" />
-    <state width="1320" height="200" key="GridCell.Tab.1.left" timestamp="1581560574781">
+    <state width="1320" height="224" key="GridCell.Tab.1.center/0.27.1366.694@0.27.1366.694" timestamp="1588245014548" />
+    <state width="1320" height="224" key="GridCell.Tab.1.left" timestamp="1588245014547">
       <screen x="0" y="27" width="1366" height="694" />
     </state>
-    <state width="1320" height="200" key="GridCell.Tab.1.left/0.27.1366.694@0.27.1366.694" timestamp="1581560574781" />
-    <state width="1320" height="200" key="GridCell.Tab.1.right" timestamp="1581560574782">
+    <state width="1320" height="224" key="GridCell.Tab.1.left/0.27.1366.694@0.27.1366.694" timestamp="1588245014547" />
+    <state width="1320" height="224" key="GridCell.Tab.1.right" timestamp="1588245014548">
       <screen x="0" y="27" width="1366" height="694" />
     </state>
-    <state width="1320" height="200" key="GridCell.Tab.1.right/0.27.1366.694@0.27.1366.694" timestamp="1581560574782" />
-    <state x="322" y="212" key="com.intellij.ide.util.TipDialog" timestamp="1584705101017">
+    <state width="1320" height="224" key="GridCell.Tab.1.right/0.27.1366.694@0.27.1366.694" timestamp="1588245014548" />
+    <state x="164" y="27" width="1027" height="694" key="SettingsEditor" timestamp="1588216741786">
       <screen x="0" y="27" width="1366" height="694" />
     </state>
-    <state x="322" y="212" key="com.intellij.ide.util.TipDialog/0.27.1366.694@0.27.1366.694" timestamp="1584705101017" />
-    <state x="369" y="225" key="com.intellij.ide.util.TipDialog/61.27.1305.741@61.27.1305.741" timestamp="1579414626983" />
+    <state x="164" y="27" width="1027" height="694" key="SettingsEditor/0.27.1366.694@0.27.1366.694" timestamp="1588216741786" />
+    <state x="322" y="212" key="com.intellij.ide.util.TipDialog" timestamp="1588240138258">
+      <screen x="0" y="27" width="1366" height="694" />
+    </state>
+    <state x="322" y="212" key="com.intellij.ide.util.TipDialog/0.27.1366.694@0.27.1366.694" timestamp="1588240138258" />
     <state x="293" y="27" width="770" height="694" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1581475489898">
       <screen x="0" y="27" width="1366" height="694" />
     </state>

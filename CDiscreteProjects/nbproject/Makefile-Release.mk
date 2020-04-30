@@ -35,10 +35,6 @@ OBJECTDIR=${CND_BUILDDIR}/${CND_CONF}/${CND_PLATFORM}
 
 # Object Files
 OBJECTFILES= \
-	${OBJECTDIR}/QucikSortTwo.o \
-	${OBJECTDIR}/QuickSortOne.o \
-	${OBJECTDIR}/StructTestOne.o \
-	${OBJECTDIR}/arrayOne.o \
 	${OBJECTDIR}/main.o
 
 
@@ -65,26 +61,6 @@ LDLIBSOPTIONS=
 ${CND_DISTDIR}/${CND_CONF}/${CND_PLATFORM}/cdiscreteprojects: ${OBJECTFILES}
 	${MKDIR} -p ${CND_DISTDIR}/${CND_CONF}/${CND_PLATFORM}
 	${LINK.c} -o ${CND_DISTDIR}/${CND_CONF}/${CND_PLATFORM}/cdiscreteprojects ${OBJECTFILES} ${LDLIBSOPTIONS}
-
-${OBJECTDIR}/QucikSortTwo.o: QucikSortTwo.c
-	${MKDIR} -p ${OBJECTDIR}
-	${RM} "$@.d"
-	$(COMPILE.c) -O2 -MMD -MP -MF "$@.d" -o ${OBJECTDIR}/QucikSortTwo.o QucikSortTwo.c
-
-${OBJECTDIR}/QuickSortOne.o: QuickSortOne.c
-	${MKDIR} -p ${OBJECTDIR}
-	${RM} "$@.d"
-	$(COMPILE.c) -O2 -MMD -MP -MF "$@.d" -o ${OBJECTDIR}/QuickSortOne.o QuickSortOne.c
-
-${OBJECTDIR}/StructTestOne.o: StructTestOne.c
-	${MKDIR} -p ${OBJECTDIR}
-	${RM} "$@.d"
-	$(COMPILE.c) -O2 -MMD -MP -MF "$@.d" -o ${OBJECTDIR}/StructTestOne.o StructTestOne.c
-
-${OBJECTDIR}/arrayOne.o: arrayOne.c
-	${MKDIR} -p ${OBJECTDIR}
-	${RM} "$@.d"
-	$(COMPILE.c) -O2 -MMD -MP -MF "$@.d" -o ${OBJECTDIR}/arrayOne.o arrayOne.c
 
 ${OBJECTDIR}/main.o: main.c
 	${MKDIR} -p ${OBJECTDIR}

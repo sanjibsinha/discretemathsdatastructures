@@ -24,5 +24,7 @@ public class A13 {
         for (int i = 0; i <= 2; i++){
             System.out.println(myNumber[i]);
         }
+
+
     }
 }

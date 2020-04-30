@@ -12,10 +12,6 @@
     <logicalFolder name="SourceFiles"
                    displayName="Source Files"
                    projectFiles="true">
-      <itemPath>QucikSortTwo.c</itemPath>
-      <itemPath>QuickSortOne.c</itemPath>
-      <itemPath>StructTestOne.c</itemPath>
-      <itemPath>arrayOne.c</itemPath>
       <itemPath>main.c</itemPath>
     </logicalFolder>
     <logicalFolder name="TestFiles"
@@ -40,14 +36,6 @@
       </toolsSet>
       <compileType>
       </compileType>
-      <item path="QucikSortTwo.c" ex="false" tool="0" flavor2="0">
-      </item>
-      <item path="QuickSortOne.c" ex="false" tool="0" flavor2="0">
-      </item>
-      <item path="StructTestOne.c" ex="false" tool="0" flavor2="0">
-      </item>
-      <item path="arrayOne.c" ex="false" tool="0" flavor2="0">
-      </item>
       <item path="main.c" ex="false" tool="0" flavor2="0">
       </item>
     </conf>
@@ -71,14 +59,6 @@
           <developmentMode>5</developmentMode>
         </asmTool>
       </compileType>
-      <item path="QucikSortTwo.c" ex="false" tool="0" flavor2="0">
-      </item>
-      <item path="QuickSortOne.c" ex="false" tool="0" flavor2="0">
-      </item>
-      <item path="StructTestOne.c" ex="false" tool="0" flavor2="0">
-      </item>
-      <item path="arrayOne.c" ex="false" tool="0" flavor2="0">
-      </item>
       <item path="main.c" ex="false" tool="0" flavor2="0">
       </item>
     </conf>
